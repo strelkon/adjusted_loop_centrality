@@ -1,0 +1,39 @@
+source,target,linkInfluence,loopsTraversing
+Strategic independence of OpenAI,Innovation by OpenAI,INCREASES,6
+Economy-wide innovation dynamics,Strength of Microsoft's competitors,INCREASES,26
+Microsoft’s exclusive cloud provision to OpenAI,Innovation by OpenAI,DECREASES,6
+Microsoft’s own AI tool development,Microsoft’s influence over AI development,INCREASES,8
+Competition in AI-native and AI-driven markets,Economy-wide innovation dynamics,INCREASES,13
+Bundling of OpenAI and Microsoft products,Strength of Microsoft's competitors,DECREASES,6
+Resources accessible for other AI startups,Competition in AI-native and AI-driven markets,INCREASES,1
+Microsoft's disruptions,Welfare of Microsoft products users,DECREASES,1
+Microsoft’s exclusive cloud provision to OpenAI,Azure-powered large-scale AI training by OpenAI,INCREASES,15
+Microsoft's investment in OpenAI,Strategic independence of OpenAI,DECREASES,7
+Innovation by OpenAI,Bundling of OpenAI and Microsoft products,INCREASES,20
+Microsoft's investment in OpenAI,Microsoft’s influence over AI development,INCREASES,8
+Microsoft’s influence over AI development,Microsoft ecosystem’s strength and customer base,INCREASES,2
+Bundling of OpenAI and Microsoft products,Microsoft ecosystem’s strength and customer base,INCREASES,6
+Bundling of OpenAI and Microsoft products,Welfare of Microsoft products users,INCREASES,6
+Strategic independence of OpenAI,Strength of Microsoft's competitors,INCREASES,1
+Economy-wide innovation dynamics,Welfare of Microsoft products users,INCREASES,1
+Strength of Microsoft's competitors,Microsoft ecosystem’s strength and customer base,DECREASES,33
+Microsoft’s exclusive cloud provision to OpenAI,Strength of Microsoft's competitors,DECREASES,1
+Microsoft’s exclusive cloud provision to OpenAI,Competition in AI-native and AI-driven markets,DECREASES,1
+Microsoft’s exclusive cloud provision to OpenAI,Resources accessible for other AI startups,DECREASES,2
+Microsoft ecosystem’s strength and customer base,Competition in AI-native and AI-driven markets,DECREASES,1
+Microsoft ecosystem’s strength and customer base,Welfare of Microsoft products users,INCREASES,1
+Azure-powered large-scale AI training by OpenAI,Microsoft’s own AI tool development,INCREASES,9
+Microsoft's investment in OpenAI,Bundling of OpenAI and Microsoft products,INCREASES,4
+Microsoft’s exclusive cloud provision to OpenAI,Microsoft's disruptions,INCREASES,1
+Microsoft's investment in OpenAI,Microsoft’s exclusive cloud provision to OpenAI,INCREASES,26
+Welfare of Microsoft products users,Competition in AI-native and AI-driven markets,DECREASES,9
+Microsoft’s own AI tool development,Microsoft ecosystem’s strength and customer base,INCREASES,1
+Strength of Microsoft's competitors,Competition in AI-native and AI-driven markets,INCREASES,1
+Resources accessible for other AI startups,Economy-wide innovation dynamics,INCREASES,1
+Bundling of OpenAI and Microsoft products,Economy-wide innovation dynamics,DECREASES,6
+Microsoft ecosystem’s strength and customer base,Microsoft's investment in OpenAI,INCREASES,40
+Microsoft’s influence over AI development,Innovation by OpenAI,DECREASES,12
+Microsoft’s influence over AI development,Economy-wide innovation dynamics,DECREASES,2
+Azure-powered large-scale AI training by OpenAI,Innovation by OpenAI,INCREASES,6
+Innovation by OpenAI,Economy-wide innovation dynamics,INCREASES,5
+Innovation by OpenAI,Microsoft's investment in OpenAI,INCREASES,5

@@ -1,0 +1,44 @@
+Source,Target,Polarity
+Azure-powered large-scale AI training by OpenAI,Innovation by OpenAI,Positive
+Azure-powered large-scale AI training by OpenAI,Microsoft’s own AI tool development,Positive
+Bundling of OpenAI and Microsoft products,Economy-wide innovation dynamics,Negative
+Bundling of OpenAI and Microsoft products,Microsoft ecosystem’s strength and customer base,Positive
+Bundling of OpenAI and Microsoft products,Strength of Microsoft's competitors,Negative
+Bundling of OpenAI and Microsoft products,Welfare of consumers not using Microsoft products,Negative
+Bundling of OpenAI and Microsoft products,Welfare of Microsoft products users,Positive
+Competition in AI-native and AI-driven markets,Economy-wide innovation dynamics,Positive
+Economy-wide innovation dynamics,Strength of Microsoft's competitors,Positive
+Economy-wide innovation dynamics,Welfare of consumers not using Microsoft products,Positive
+Economy-wide innovation dynamics,Welfare of Microsoft products users,Positive
+Innovation by OpenAI,Bundling of OpenAI and Microsoft products,Positive
+Innovation by OpenAI,Economy-wide innovation dynamics,Positive
+Innovation by OpenAI,Microsoft's investment in OpenAI,Positive
+Innovation by OpenAI,Welfare of consumers not using Microsoft products,Positive
+Microsoft ecosystem’s strength and customer base,Competition in AI-native and AI-driven markets,Negative
+Microsoft ecosystem’s strength and customer base,Microsoft's investment in OpenAI,Positive
+Microsoft ecosystem’s strength and customer base,Welfare of Microsoft products users,Positive
+Microsoft's disruptions,Welfare of consumers not using Microsoft products,Negative
+Microsoft's disruptions,Welfare of Microsoft products users,Negative
+Microsoft's investment in OpenAI,Bundling of OpenAI and Microsoft products,Positive
+Microsoft's investment in OpenAI,Microsoft’s exclusive cloud provision to OpenAI,Positive
+Microsoft's investment in OpenAI,Microsoft’s influence over AI development,Positive
+Microsoft's investment in OpenAI,Strategic independence of OpenAI,Negative
+Microsoft’s exclusive cloud provision to OpenAI,Azure-powered large-scale AI training by OpenAI,Positive
+Microsoft’s exclusive cloud provision to OpenAI,Competition in AI-native and AI-driven markets,Negative
+Microsoft’s exclusive cloud provision to OpenAI,Innovation by OpenAI,Negative
+Microsoft’s exclusive cloud provision to OpenAI,Microsoft's disruptions,Positive
+Microsoft’s exclusive cloud provision to OpenAI,Resources accessible for other AI startups,Negative
+Microsoft’s exclusive cloud provision to OpenAI,Strength of Microsoft's competitors,Negative
+Microsoft’s influence over AI development,Economy-wide innovation dynamics,Negative
+Microsoft’s influence over AI development,Innovation by OpenAI,Negative
+Microsoft’s influence over AI development,Microsoft ecosystem’s strength and customer base,Positive
+Microsoft’s own AI tool development,Microsoft ecosystem’s strength and customer base,Positive
+Microsoft’s own AI tool development,Microsoft’s influence over AI development,Positive
+Resources accessible for other AI startups,Competition in AI-native and AI-driven markets,Positive
+Resources accessible for other AI startups,Economy-wide innovation dynamics,Positive
+Strategic independence of OpenAI,Innovation by OpenAI,Positive
+Strategic independence of OpenAI,Strength of Microsoft's competitors,Positive
+Strength of Microsoft's competitors,Competition in AI-native and AI-driven markets,Positive
+Strength of Microsoft's competitors,Microsoft ecosystem’s strength and customer base,Negative
+Strength of Microsoft's competitors,Welfare of consumers not using Microsoft products,Positive
+Welfare of Microsoft products users,Competition in AI-native and AI-driven markets,Negative

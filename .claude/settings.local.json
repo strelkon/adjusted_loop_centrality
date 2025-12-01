@@ -8,7 +8,10 @@
       "Bash(git commit:*)",
       "Bash(git checkout:*)",
       "Bash(git merge:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(xargs:*)",
+      "Bash(java -version:*)"
     ],
     "deny": [],
     "ask": []
