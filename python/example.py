@@ -18,7 +18,7 @@ def main():
     # Load the network from an adjacency matrix Excel file
     # Replace this path with your actual file path
     # For example: "data/OAIMicrosoft_v6_17.11.25.xlsx"
-    input_file = "your_adjacency_matrix.xlsx"
+    input_file = "data/test_adjacency_matrix.xlsx"
 
     try:
         print("Starting Causal Loop Diagram Analysis")
